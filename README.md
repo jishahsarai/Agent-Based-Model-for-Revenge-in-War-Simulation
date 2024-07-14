@@ -12,9 +12,11 @@ Several factors were considered for each individual, such as velocity, health, n
 
 At the end, several statistics were collected for the ABM model by changing the parameters. There was a strong relationship between the escalation of conflict and the attributes of violence and revenge in individuals.
 
-## Learing Outomes:
-- Improved technical skills in Julia programming Language and using relevant packages tools for simulation and data analysis such as Agents and Graphs.
-- Gained a comprehensive understanding of how to apply concepts from Network Science and Agent-Based Models (ABM) to simulate and analyze social dynamics and conflicts.
-- Integrate knowledge from multiple domains, including Graph Theory, Game Theory, and social sciences, to create a cohesive and functional model.
-- Developed the ability to effectively define multiple key attributes in the agents that will evolve in a global outcome.
+## Repository Guidance:
+Inside the repository, you will find a Jupyter Notebook written in Julia and a video demonstrating the model's development. In the video, the color representation of the agents is as follows: Blue for agents with nationality A, Orange for agents with nationality B, Red for wounded agents, and Black for agents who have been killed.
+
+## Learning Outcomes:
+- Improved technical skills in Julia programming Language and using relevant package tools for simulation and data analysis such as Agents, Graphs, CairoMakie, and Plots.
+- Gained a comprehensive understanding of how to apply concepts from Network Science and Agent-Based Models to simulate and analyze social dynamics and conflicts.
 - Communicate findings through visualizations and written explanations, as demonstrated in the project report and video.
+- Improved critical thinking and problem-solving skills by considering multiple factors and scenarios in the simulation, such as nationality, residency, and personal attributes like violence and revenge, that contributed to the global outcome.
